@@ -20,7 +20,7 @@ jobs:
 
       - name: Install Railway CLI and Deploy
         env:
-          RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
+          RAILWAY_TOKEN: ${{ secrets.RAILWAY_SERVICE_ID }}
         run: |
           npm install -g @railway/cli
           railway up --detach
