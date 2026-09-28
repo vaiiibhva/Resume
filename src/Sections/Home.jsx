@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState, useRef } from "react";
-import profileImage from "../assets/profile.png";
+import profileImage from "../assets/Profile.png";
 
 const Vaibhav = () => (
   <span className="text-amber-300">Vaibhav</span>
