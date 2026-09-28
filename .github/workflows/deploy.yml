@@ -23,4 +23,4 @@ jobs:
           RAILWAY_TOKEN: ${{ secrets.RAILWAY_SERVICE_ID }}
         run: |
           npm install -g @railway/cli
-          railway up --detach
+          railway up --detach --service Resume
