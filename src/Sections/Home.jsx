@@ -244,7 +244,7 @@ const Home = () => {
       {/* Text Section */}
       <div className="relative z-10 mt-10 w-full text-center lg:w-1/2 lg:text-left">
         <p className="mb-4 text-sm uppercase tracking-[0.35em] text-amber-300">
-          Welcome
+          Welcome hehehe ohKJSKJDKJksjkkjlkjljlkjlkjdl
         </p>
 
         <h1 className="mb-6 text-4xl font-semibold leading-tight text-slate-100 sm:text-5xl lg:text-6xl">
